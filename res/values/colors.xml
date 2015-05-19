@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="lightwhite">#ddd</color>
+    <color name="white">#fff</color>
+   
+    <color name="black">#000000</color>
+    <color name="tab_title_normal_color">#262726</color>
+    <color name="tab_title_pressed_color">#f0ffff</color>
+    <color name="tab_middle_line_color">#5c882c</color>
+</resources>
